@@ -1,8 +1,8 @@
-#Browsersync - Webpack + React Hot Loader
+# Browsersync - Webpack + React Hot Loader
 
 ## Installation/Usage:
 
-To try this example, follow these 4 simple steps. 
+To try this example, follow these 6 simple steps. 
 
 **Step 1**: Install dependencies
 ```bash
